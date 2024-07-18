@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to bottom, rgb(43, 43, 155), rgba(233, 233, 9, 0.795)); 
+    background-size: cover;
+}    
+
+header{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+main{
+    background-color: azure;
+    border-style: outset;
+}
